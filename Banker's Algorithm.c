@@ -1,7 +1,3 @@
-/*
-
-*/
-
 #include<stdio.h>
 #include<conio.h>
 int max[100][100];
